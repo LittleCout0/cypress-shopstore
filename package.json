@@ -1,0 +1,23 @@
+{
+  "name": "webstore-automation-with-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleCout0/webstore-automation-with-cypress.git"
+  },
+  "author": "Coutinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleCout0/webstore-automation-with-cypresse/issues"
+  },
+  "homepage": "https://github.com/LittleCout0/webstore-automation-with-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
+}
