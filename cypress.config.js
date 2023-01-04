@@ -3,6 +3,7 @@ const { defineConfig } = require("cypress")
 module.exports = defineConfig({
   defaultCommandTimeout: 5000,
   pageLoadTimeout: 15000,
+  video: false,
   env: {
     url: "https://rahulshettyacademy.com/client",
   },
@@ -10,7 +11,8 @@ module.exports = defineConfig({
     specPattern: "cypress/e2e/*.cy.js",
   },
   retries: {
-    runMode: 0,
+    runMode: 1,
+    openMode: 0,
   },
-  projectId: "WebStore Automation",
+  projectId: "E-Commerce Automation",
 })

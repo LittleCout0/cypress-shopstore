@@ -1,5 +1,5 @@
 {
-  "name": "webstore-automation-with-cypress",
+  "name": "ecommerce-automation-with-cypress",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LittleCout0/webstore-automation-with-cypress.git"
+    "url": "git+https://github.com/LittleCout0/ecommerce-automation-with-cypress.git"
   },
   "author": "Coutinho",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LittleCout0/webstore-automation-with-cypresse/issues"
+    "url": "https://github.com/LittleCout0/ecommerce-automation-with-cypresse/issues"
   },
-  "homepage": "https://github.com/LittleCout0/webstore-automation-with-cypress#readme",
+  "homepage": "https://github.com/LittleCout0/ecommerce-automation-with-cypress#readme",
   "devDependencies": {
     "cypress": "^12.2.0"
   }

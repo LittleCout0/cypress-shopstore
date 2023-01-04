@@ -1,4 +1,4 @@
-# WebStore Automation with Cypress
+# E-Commerce Automation with Cypress
 
 Walkthrough to install, set up and run the tests.
 
@@ -21,7 +21,7 @@ Install latest [**GIT**](https://git-scm.com/download/win) to clone the reposito
 In your terminal (with admin privileges), run this command to clone and install all dependencies
 
 ```bash
-git clone https://github.com/LittleCout0/webstore-automation-with-cypress && cd webstore-automation-with-cypress && npm i
+git clone https://github.com/LittleCout0/ecommerce-automation-with-cypress && cd ecommerce-automation-with-cypress && npm i
 ```
 
 To run all tests use the command: `npm run test`  
@@ -31,7 +31,7 @@ To run with Cypress App use the command: `npm run cy:open`
 
 #### Git Repository
 
-GitHub: [_WebStore Automation with Cypress_](https://github.com/LittleCout0/webstore-automation-with-cypress)
+GitHub: [_WebStore Automation with Cypress_](https://github.com/LittleCout0/ecommerce-automation-with-cypress)
 
 ##
 

@@ -1,1 +1,3 @@
 /node_modules
+cypress/results/*
+videos/**.cy.js.mp4

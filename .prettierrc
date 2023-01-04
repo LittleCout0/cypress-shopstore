@@ -2,5 +2,6 @@
   "semi": false,
   "arrowParens": "avoid",
   "jsxSingleQuote": true,
-  "singleQuote": false
+  "singleQuote": false,
+  "printWidth": 120
 }
